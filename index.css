@@ -56,4 +56,12 @@ nav{
     .text_box{
         text-align: end;
     }
+
+    .girl_box{
+        text-align: center;
+    }
+
+    .sm-girl-img{
+        width: 100%;
+    }
 }
