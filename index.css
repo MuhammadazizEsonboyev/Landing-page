@@ -53,5 +53,7 @@ nav{
 /* RESPONSIVE WEBSITE */
 
 @media(max-width: 576px) {
-
+    .text_box{
+        text-align: end;
+    }
 }
